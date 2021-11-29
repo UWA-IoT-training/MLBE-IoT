@@ -1,6 +1,6 @@
 # MLBE_IoT_Crash_course
 
-Marshall Lab B? E? Internet-of-Things Crash course
+Marshall Lab Biomedical Engineering Internet-of-Things Crash course
 
 ## Learning outcomes:
 At the end of this course participants should be able to:  
