@@ -26,6 +26,50 @@ d. Who is coordinating/ involved in material development and delivery
 
 e. Any tools, resources and code needed
 
+## Draft outline (3 hrs per day)
+
+### Day 1
+1. Introductions
+
+2. Elements of a COTS data collection system: microprocessor, sensors, communications, power, storage, code (data and settings), enclosure. 
+
+Activity: identify parts, understand supply chain, costs, look at spec sheets 
+
+3. Introduction to breadboards, multimeter and oscilloscope. Risk assessment.
+
+Activity: build simple circuit 
+
+### Day 2
+1. Introduction to the microcontroller and parts for the demo (ESP32??) and sensor (camera?)
+
+Activity: Load code onto the microcontroller
+
+2. Getting data off the microcontroller
+
+### Homework over the weekend
+Self practice to make their microcontroller work and to explore using it (change settings)
+
+### Day 3
+1. Exploring comms options
+
+Activity: get various comms options working and troubleshooting
+
+2. Discuss power/ battery, data and storage options
+
+Activity: Collecting and viewing data collected
+
+### Day 4
+Activity: Everyone to demo their device and describe what they learned and what questions they have
+
+1. Putting it all together: describe/ demo 3D printing
+
+2. Describe next steps: minaturisation, reliability, etc.
+
+3. Wrap up - what we learned, what we wished we'd learned, how to run the next course
+
+
+
+
 ## Prior to the course each participants must do the following:
 
 1. Join the course Teams account
