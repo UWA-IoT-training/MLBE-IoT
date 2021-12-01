@@ -46,12 +46,12 @@ Activity: Make a light blink with button,
 
 2. What's happening. Voltage levels 3.3v/ 5v, digital binary conversions, scanning code to understand what's going 
 
-3. Introduction to the microcontroller and parts for the demo (ESP32 with camera module) and sensor (camera?). Describe USB to serial card. Make it blink every time it takes an imageIntroduce the ESP 32 and parts. Upload code to the ESP. 
+3. Introduction to the microcontroller and parts for the demo (ESP32 with camera module) and sensor (camera?). Describe USB to serial card. Make it blink every time it takes an image. Introduce the ESP 32 and parts. Upload code to the ESP. 
 
-4. Review of resources to help.
+4. Review of resources to help and Toby's goody bag of bits.
 
 ### Homework over the weekend
-Self practice to make their ESP32 microcontroller work and to explore using it (change settings)
+Self practice to make their ESP32 microcontroller work and to explore using it (change settings). Let us know in Teams how you are doing.
 
 ### Day 3
 1. Demo of their device and something unique they did.
@@ -67,9 +67,9 @@ Activity: Collecting and viewing data collected
 ### Day 4
 Activity: Everyone to demo their device and describe what they learned and what questions they have
 
-1. Putting it all together: describe/ demo 3D printing
+1. Putting it all together: describe/ demo 3D printing (talk to Mech Eng
 
-2. Describe next steps: minaturisation, reliability, etc.
+2. Describe next steps: PCB minaturisation, reliability, etc.(talk to EE), writing specifications
 
 3. Wrap up - what we learned, what we wished we'd learned, how to run the next course
 
