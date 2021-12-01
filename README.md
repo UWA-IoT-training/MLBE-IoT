@@ -74,7 +74,8 @@ Activity: Everyone to demo their device and describe what they learned and what 
 
 1. Join the course Teams account
 2. Set up a Git Hub account and post their address to the Teams channel.
-3. .....  
+3. Download and register for PCB CAD software selected and Arduino
+4. ....
 
 
 
