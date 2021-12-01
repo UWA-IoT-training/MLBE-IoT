@@ -89,13 +89,13 @@ Activity: Everyone to demo their device and describe
 
 ## Component list
 
-10 x Arduino nanos 
-10 x ESP-Cams 
-10 x 4GB MicroSD cards
-10 x Breadboards 
-10 x Slide switches
-10 x USB/Serial Converters
-10 x USB cables (depending on type of USB)
+10 x Arduino nanos, 
+10 x ESP-Cams, 
+10 x 4GB MicroSD cards,
+10 x Breadboards, 
+10 x Slide switches,
+10 x USB/Serial Converters,
+10 x USB cables (depending on type of USB),
 MicroSD card reader
 
 
