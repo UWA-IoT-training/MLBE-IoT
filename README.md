@@ -42,24 +42,25 @@ Activity: identify parts, understand supply chain, costs, look at spec sheets. F
 
 ### Day 2
 1.  Briefing: Using Arduino nano, adjustable LED, download code to arduino
-
 Activity: Make a light blink with button,  
 
 2. What's happening. Voltage levels 3.3v/ 5v, digital binary conversions, scanning code to understand what's going 
 
-3. REview of resources to help.
+3. Introduction to the microcontroller and parts for the demo (ESP32 with camera module) and sensor (camera?). Describe USB to serial card. Make it blink every time it takes an imageIntroduce the ESP 32 and parts. Upload code to the ESP. 
+
+4. Review of resources to help.
 
 ### Homework over the weekend
-Self practice to make their microcontroller work and to explore using it (change settings)
+Self practice to make their ESP32 microcontroller work and to explore using it (change settings)
 
 ### Day 3
-1. Exploring comms options
+1. Demo of their device and something unique they did.
 
-Introduction to the microcontroller and parts for the demo (ESP32 with camera module) and sensor (camera?). Describe USB to serial card.
+2. Exploring comms options
 
 Activity: get various comms options working and troubleshooting
 
-2. Discuss power/ battery, data and storage options
+3. Discuss data and storage options
 
 Activity: Collecting and viewing data collected
 
