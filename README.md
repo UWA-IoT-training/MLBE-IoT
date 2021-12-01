@@ -41,11 +41,11 @@ Activity: identify parts, understand supply chain, costs, look at spec sheets. F
 
 
 ### Day 2
-1. Introduction to the microcontroller and parts for the demo (ESP32 with camera module) and sensor (camera?)
+1.  Briefing: Using Arduino nano, adjustable LED, download code to arduino
 
-Activity: Load code onto the microcontroller
+Activity: Make a light blink with button,  
 
-2. Getting data off the microcontroller
+2. What's happening. Voltage levels 3.3v/ 5v, digital binary conversions, scanning code to understand what's going 
 
 3. REview of resources to help.
 
@@ -54,6 +54,8 @@ Self practice to make their microcontroller work and to explore using it (change
 
 ### Day 3
 1. Exploring comms options
+
+Introduction to the microcontroller and parts for the demo (ESP32 with camera module) and sensor (camera?). Describe USB to serial card.
 
 Activity: get various comms options working and troubleshooting
 
