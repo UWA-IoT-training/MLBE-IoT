@@ -41,11 +41,13 @@ Activity: identify parts, understand supply chain, costs, look at spec sheets. F
 
 
 ### Day 2
-1. Introduction to the microcontroller and parts for the demo (ESP32??) and sensor (camera?)
+1. Introduction to the microcontroller and parts for the demo (ESP32 with camera module) and sensor (camera?)
 
 Activity: Load code onto the microcontroller
 
 2. Getting data off the microcontroller
+
+3. REview of resources to help.
 
 ### Homework over the weekend
 Self practice to make their microcontroller work and to explore using it (change settings)
