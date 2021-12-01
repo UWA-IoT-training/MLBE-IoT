@@ -31,13 +31,15 @@ e. Any tools, resources and code needed
 ### Day 1
 1. Introductions (Melinda)
 
-2. Elements of a COTS data collection system: microprocessor, sensors, communications, power, storage, code (data and settings), enclosure. 3. Introduction to breadboards and multimeter. Basic topology of circuit. (Ben's Slides, Aiden?)
-
-Activity: identify parts, understand supply chain, costs, look at spec sheets. Find a component race (cheapest cost, meet specs and delivery time). PLay with simple circuit.  
+2. Elements of a COTS data collection system: microprocessor, sensors, communications, power, storage, code (data and settings), enclosure. 
 
 3. Overview of the device and its design intent and business case (Melinda)
 
-4. Medical device Risk assessment amd standards IEC 60601-1. TGA checklists. [Link](http://www.pacificcrn.com/Upload/file/201705/06/20170506193715_57243.pdf) (Aiden, Toby and Nick)
+4. Introduction to breadboards and multimeter. Basic topology of circuit. (Ben's Slides, Aiden?)
+
+Activity: identify parts, understand supply chain, costs, look at spec sheets. Find a component race (cheapest cost, meet specs and delivery time). PLay with simple circuit.  
+
+5. Medical device Risk assessment amd standards IEC 60601-1. TGA checklists. [Link](http://www.pacificcrn.com/Upload/file/201705/06/20170506193715_57243.pdf) (Aiden, Toby and Nick)
 
 
 ### Day 2
