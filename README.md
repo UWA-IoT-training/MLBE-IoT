@@ -37,7 +37,7 @@ Activity: identify parts, understand supply chain, costs, look at spec sheets. F
 
 3. Overview of the device and its design intent and business case
 
-4. Medical device Risk assessment amd standards IEC 60601-1. TGA checklists.
+4. Medical device Risk assessment amd standards IEC 60601-1. TGA checklists. [Link](http://www.pacificcrn.com/Upload/file/201705/06/20170506193715_57243.pdf)
 
 
 ### Day 2
