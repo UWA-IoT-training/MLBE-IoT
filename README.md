@@ -65,16 +65,15 @@ Activity: get various comms options working and troubleshooting
 Activity: Collecting and viewing data collected
 
 ### Day 4
-Activity: Everyone to demo their device and describe what they learned and what questions they have
+Activity: Everyone to demo their device and describe
 
-1. Putting it all together: describe/ demo 3D printing (talk to Mech Eng
+1. Putting it all together: overview of end to end process 
+ 
+2. Describe/ demo 3D printing (talk to Mech Eng
 
-2. Describe next steps: PCB minaturisation, reliability, etc.(talk to EE), writing specifications
+3. Develop PCB minaturisation, reliability, etc.(talk to EE), writing specifications, costs, web app, resources.
 
-3. Wrap up - what we learned, what we wished we'd learned, how to run the next course
-
-
-
+4. Wrap up -  what we learned, what we wished we'd learned, how to run the next course. Follow up plans.
 
 ## Prior to the course each participants must do the following:
 
