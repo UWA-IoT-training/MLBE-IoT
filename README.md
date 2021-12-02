@@ -59,15 +59,14 @@ Activity: Make it blink every time it takes an image. Introduce the ESP32 and pa
 Self practice to make their ESP32 microcontroller work and to explore using it (change settings). Let us know in Teams how you are doing.
 
 ### Day 3
-1. Demo of their device and something unique they did. 
+1. Reflection: participants to demo their device and describe something novel they did. 
 
-2. Exploring comms options (Aiden, Patrick, Thomas)
+2. Discuss data and storage options (Patrick, Thomas, Nick) - demo how to store and retrieve and view data from the camera using SD.
 
-Activity: get various comms options working and troubleshooting
+Activity - participants to do this with a photo and then (maybe) a time-lapse
 
-3. Discuss data and storage options (Patrick, Thomas, Nick)
+2. Exploring comms options - overview wifi, bluetooth, rfid (others?) - pros and cons (Aiden, Patrick, Thomas), demo it working.
 
-Activity: Collecting and viewing data collected
 
 ### Day 4
 Activity: Everyone to demo their device and describe 
