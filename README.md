@@ -29,11 +29,11 @@ e. Any tools, resources and code needed
 ## Draft outline (3 hrs per day)
 
 ### Day 1
-1. Introductions (Melinda)
+1. Introductions and safety briefing (Melinda)
 
 2. Elements of a COTS data collection system: microprocessor, sensors, communications, power, storage, code (data and settings), enclosure. (Ben's Slides, Aiden?)
 
-3. Overview of the device and its design intent and business case (Melinda)
+3. Overview of the device and its design intent and business case (Melinda and Barry)
 
 4. Introduction to breadboards and multimeter. Basic topology of circuit. (Aiden)
 
