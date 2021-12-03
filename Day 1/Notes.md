@@ -22,7 +22,7 @@ Session coordinator: Melinda Hodkiewicz (MH).
 4. Introduce the participant team
 
 * Barry Marshall bmarshall@helicobacter.com https://www.linkedin.com/in/barry-marshall-3241b756/
-* Alfred Tay alfred.tay@uwa.edu.au (no Linkedin?)
+* Alfred Tay alfred.tay@uwa.edu.au https://www.linkedin.com/in/alfred-chin-yen-tay-1a829b28/
 * Engguan Chua chua_23@hotmail.com (no Linkedin?)
 * Luke Marshall luke@luke-marshall.com https://www.linkedin.com/in/luke-marshall-772588a/ (check Linkedin correct)
 * Binit Lamichhane binit.lamichhane@research.uwa.edu.au https://www.linkedin.com/in/binitlamichhane/
