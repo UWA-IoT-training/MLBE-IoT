@@ -5,7 +5,7 @@ Marshall Lab Biomedical Engineering Internet-of-Things Crash course
 ## Learning outcomes:
 At the end of this course participants should be able to:  
 
-1. Assemble elements of a COTS system (microcontroller, camera/sensor and code).
+1. Assemble elements of a COTS IoT system (microcontroller, camera/sensor and code).
 2. Visualise data collected by the camera/ sensor on a suitable device.
 3. Store and edit their code on GIT.
 4. Present their learning journey. 
@@ -90,14 +90,14 @@ Activity: Everyone to demo their device and describe
 
 ## Component list
 
-10 x Arduino nanos (2 owned), 
-10 x ESP-Cams (3-4 owned), 
-10 x 4GB MicroSD cards (1 owned),
-10 x Breadboards (all owned), 
-10 x Slide switches (all owned),
-10 x USB/Serial Converters (1 owned),
-10 x Mini USB cables (1 owned),
-MicroSD card reader
+* 10 x Arduino nanos (2 owned), 
+* 10 x ESP-Cams (3-4 owned), 
+* 10 x 4GB MicroSD cards (1 owned),
+* 10 x Breadboards (all owned), 
+* 10 x Slide switches (all owned),
+* 10 x USB/Serial Converters (1 owned),
+* 10 x Mini USB cables (1 owned),
+* MicroSD card reader
 
 
 
