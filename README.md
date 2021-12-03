@@ -12,21 +12,7 @@ At the end of this course participants should be able to:
 
 Each session is in 2 parts, (A) a material delivery part ~45 mins and a (B) a practical doing part ~45 mins. There are 2 sessions each day.
 
-## Proposed format - 4 x 0.5 day sessions
-
-Each session needs to have  
-
-a. Learning outcome(s)
-
-b. Agenda
-
-c. List of activities (if any)
-
-d. Who is coordinating/ involved in material development and delivery
-
-e. Any tools, resources and code needed
-
-## Draft outline (3 hrs per day)
+## Outline (3 hrs per day)
 
 ### Day 1
 1. Introductions and safety briefing (Melinda)
@@ -37,9 +23,9 @@ e. Any tools, resources and code needed
 
 4. Introduction to breadboards and multimeter. Basic topology of circuit. (Aiden)
 
-Activity: identify parts, understand supply chain, costs, look at spec sheets. Find a component race (cheapest cost, meet specs and delivery time). Winner gets component prize. PLay with simple circuit. 
+5. Activity: identify parts, understand supply chain, costs, look at spec sheets. Find a component race (cheapest cost, meet specs and delivery time). Winner gets component prize. Play with simple circuit. 
 
-5. Medical device Risk assessment amd standards IEC 60601-1. TGA checklists. [Link](http://www.pacificcrn.com/Upload/file/201705/06/20170506193715_57243.pdf) (Aiden, Toby and Nick)
+6. Medical device Risk assessment amd standards IEC 60601-1. TGA checklists. [Link](http://www.pacificcrn.com/Upload/file/201705/06/20170506193715_57243.pdf) (Aiden, Toby and Nick)
 
 
 ### Day 2
