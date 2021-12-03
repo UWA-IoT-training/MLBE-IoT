@@ -1,6 +1,6 @@
-## Day 1 outline
+# Day 1 outline
 
-### Session 1 - 9:00-9:30 - Introductions, safety briefing and learning outcomes 
+## Session 1 - 9:00-9:30 - Introductions, safety briefing and learning outcomes
 
 Session coordinator: Melinda Hodkiewicz (MH).
 
@@ -8,13 +8,13 @@ Session coordinator: Melinda Hodkiewicz (MH).
 
 2. Safety briefing - Building and SHL.
 
-3. Introduce the IOT course team - (2-3 minute introduction from each - What is your role and why is this course relevant? What level of experience do you have with COTS-MEMS-IOT systems? What do you hope to get from the course? 
+3. Introduce the IOT course team - (2-3 minute introduction from each - What is your role and why is this course relevant? What level of experience do you have with COTS-MEMS-IOT systems? What do you hope to get from the course?
 
 * Aiden Taba https://www.linkedin.com/in/aident/
 * Nick Sadnovnikov https://www.linkedin.com/in/nick-sadovnikov/
 * Toby Digney https://www.linkedin.com/in/toby-digney-33b85a165/
 * Patrick Morton https://www.linkedin.com/in/patrick-morton-91148b196/
-* Thomas Morton 
+* Thomas Morton
 * A/Prof Adrian Keating https://www.linkedin.com/in/adrian-keating-199a853/
 * Dr. Ben Travaglione (Adjunct Assoc Professor) https://www.linkedin.com/in/ben-travaglione-17b95a79/
 * Prof. Melinda Hodkiewicz https://www.linkedin.com/in/melinda-hodkiewicz-b6bbba7/
