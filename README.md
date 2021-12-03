@@ -12,21 +12,7 @@ At the end of this course participants should be able to:
 
 Each session is in 2 parts, (A) a material delivery part ~45 mins and a (B) a practical doing part ~45 mins. There are 2 sessions each day.
 
-## Proposed format - 4 x 0.5 day sessions
-
-Each session needs to have  
-
-a. Learning outcome(s)
-
-b. Agenda
-
-c. List of activities (if any)
-
-d. Who is coordinating/ involved in material development and delivery
-
-e. Any tools, resources and code needed
-
-## Draft outline (3 hrs per day)
+## Outline (3 hrs per day)
 
 ### Day 1
 1. Introductions and safety briefing (Melinda)
