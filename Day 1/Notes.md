@@ -33,7 +33,7 @@ Session coordinator: Melinda Hodkiewicz (MH).
 Presentation on elements of a typical MEMS-IOT system: microprocessor, sensors, communications, power, storage, code (data and settings), enclosure (30 mins)
  
 * Presenter: Aiden Taba
-* Presentation development: Patrick Morton
+* Session details: Patrick Morton
 
 ### Session 3 - 10:00 - 10:15 - Overview of the device and its design intent and business case 
 
@@ -44,7 +44,7 @@ Barry(15 mins)
 ### Session 4 - 10:30 - 10:45 - Introduction to breadboards. Basic topology of circuit. 
 
 * Presenter: Aiden Taba
-* Presentation development: ?? TBA
+* Session development: ?? TBA (doesn't have to be a ppt)
 
 ### Session 5 - Game 10:45 - 11:45
 
@@ -57,7 +57,7 @@ Activity: identify parts, understand supply chain, costs, look at spec sheets. F
 ### Session 6 - 11:45 - 12:15 Medical device risk assessment and standards. TGA checklists.
 
 * Presenter: TBA
-* Presentation development: ?? TBA
+* Presentation development: ?? TBA (MH will help, Toby??, Aiden??)
 
 ### Wrap up. End at 12:30
 
