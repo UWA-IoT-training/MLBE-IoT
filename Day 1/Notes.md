@@ -49,6 +49,7 @@ Barry(15 mins)
 ### Session 5 - Game 10:45 - 11:45
 
 * Game coordinator: Aiden Taba
+* Game development (what are we going to do, what parts needed, etc.) TBA
 * Activity support: Nick Sadnovnikov, Patrick Morton, Tommo Morton, Toby Digby (?)
 
 Activity: identify parts, understand supply chain, costs, look at spec sheets. Find a component race (cheapest cost, meet specs and delivery time). Winner gets component prize. Play with simple circuit.
