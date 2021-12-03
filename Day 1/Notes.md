@@ -21,12 +21,12 @@ Session coordinator: Melinda Hodkiewicz (MH).
 
 4. Introduce the participant team
 
-* Barry Marshall bmarshall@helicobacter.com https://www.linkedin.com/in/barry-marshall-3241b756/
-* Alfred Tay alfred.tay@uwa.edu.au https://www.linkedin.com/in/alfred-chin-yen-tay-1a829b28/
-* Engguan Chua chua_23@hotmail.com (no Linkedin?)
-* Luke Marshall luke@luke-marshall.com https://www.linkedin.com/in/luke-marshall-772588a/ (check Linkedin correct)
-* Binit Lamichhane binit.lamichhane@research.uwa.edu.au https://www.linkedin.com/in/binitlamichhane/
-* Aleksandra Debowski aleksandra.debowski@uwa.edu.au https://www.linkedin.com/in/aleksandra-debowski-04507515b/
+* Barry Marshall https://www.linkedin.com/in/barry-marshall-3241b756/
+* Alfred Tay https://www.linkedin.com/in/alfred-chin-yen-tay-1a829b28/
+* Engguan Chua (no Linkedin?)
+* Luke Marshall https://www.linkedin.com/in/luke-marshall-772588a/ (check Linkedin correct)
+* Binit Lamichhane https://www.linkedin.com/in/binitlamichhane/
+* Aleksandra Debowski https://www.linkedin.com/in/aleksandra-debowski-04507515b/
 
 ### Session 2 - 9:30 - 10:00 - Elements of a COTS data collection system
 
