@@ -23,9 +23,9 @@ Each session is in 2 parts, (A) a material delivery part ~45 mins and a (B) a pr
 
 4. Introduction to breadboards and multimeter. Basic topology of circuit. (Aiden)
 
-Activity: identify parts, understand supply chain, costs, look at spec sheets. Find a component race (cheapest cost, meet specs and delivery time). Winner gets component prize. PLay with simple circuit. 
+5. Activity: identify parts, understand supply chain, costs, look at spec sheets. Find a component race (cheapest cost, meet specs and delivery time). Winner gets component prize. Play with simple circuit. 
 
-5. Medical device Risk assessment amd standards IEC 60601-1. TGA checklists. [Link](http://www.pacificcrn.com/Upload/file/201705/06/20170506193715_57243.pdf) (Aiden, Toby and Nick)
+6. Medical device Risk assessment amd standards IEC 60601-1. TGA checklists. [Link](http://www.pacificcrn.com/Upload/file/201705/06/20170506193715_57243.pdf) (Aiden, Toby and Nick)
 
 
 ### Day 2
