@@ -45,14 +45,15 @@ Barry(15 mins)
 
 * Presenter: Aiden Taba
 * Session development: ?? TBA (doesn't have to be a ppt)
+* Activity: Play with simple circuit.
 
 ### Session 5 - Game 10:45 - 11:45
 
 * Game coordinator: Aiden Taba
 * Game development (what are we going to do, what parts needed, etc.) TBA
-* Activity support: Nick Sadnovnikov, Patrick Morton, Tommo Morton, Toby Digby (?)
+* Activity support: Nick Sadnovnikov, Patrick Morton, Tommo Morton
 
-Activity: identify parts, understand supply chain, costs, look at spec sheets. Find a component race (cheapest cost, meet specs and delivery time). Winner gets component prize. Play with simple circuit.
+Activity: identify parts, understand supply chain, costs, look at spec sheets. Find a component race (cheapest cost, meet specs and delivery time). Winner gets component prize. 
 
 ### Session 6 - 11:45 - 12:15 Medical device risk assessment and standards. TGA checklists.
 
