@@ -59,7 +59,7 @@ Activity: Everyone to demo their device and describe
 
 1. Putting it all together: overview of end to end process (Melinda, Aiden)
  
-2. Describe/ demo 3D printing (Patrick)
+2. Describe/ demo 3D printing (Patrick, Aiden)
 
 3. Develop PCB minaturisation, reliability, etc.(talk to EE), writing specifications, costs, web app, resources. (Aiden, Toby, Melinda)
 
