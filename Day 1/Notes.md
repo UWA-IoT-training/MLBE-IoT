@@ -56,8 +56,8 @@ Activity: identify parts, understand supply chain, costs, look at spec sheets. F
 
 ### Session 6 - 11:45 - 12:15 Medical device risk assessment and standards. TGA checklists.
 
-* Presenter: TBA
-* Presentation development: ?? TBA (MH will help, Toby??, Aiden??)
+* Presenter: Aiden
+* Presentation development: Aiden has some material from Prof Chinzei from AIST Japan that he presented on IEC 60601-1. Reference also this link https://www.tga.gov.au/sites/default/files/essential-principles-checklist-medical-devices.pdf
 
 ### Wrap up. End at 12:30
 
