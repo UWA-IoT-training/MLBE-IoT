@@ -69,8 +69,8 @@ Activity: Everyone to demo their device and describe
 
 1. Join the course Teams account
 2. Set up a Git Hub account and post their address to the Teams channel.
-3. Download Arduino and download library
-4. Brings laptop
+3. Download Arduino, library and Fritzing
+4. Bring laptop
 5. Briefing note, welcome to the course, times/dates, what to bring, where we are, safety induction (Patrick, Thomas to write up Melinda/Aiden to send out)
 
 
