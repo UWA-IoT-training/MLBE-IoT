@@ -5,7 +5,7 @@ Presenter: -
 Session Development ???  
 
 
-## Session 2 - ... Data and Storage
+## Session 2 - 9:30 - 10:15 Data and Storage
 Presenter:  Nick Sadovnikov ???  
 Session Development: Nick Sadovnikov, Tommo Morton, Patrick Morton
 
@@ -14,13 +14,13 @@ Session Development: Nick Sadovnikov, Tommo Morton, Patrick Morton
 3. How to store data from the camera
 4. How to view data from the camera, both locally and directly off the SD card
 
-### Activity: Take a photo and a timelapse
+## Break 10:15 - 10:30  
+
+### Activity: Take a photo and a timelapse  (10:30 - 11:15)
 1. use camera setup that was established on Day 2
 2. etc.
 
-## Break
-
-## Session 3 - ... Communications Options
+## Session 3 - 11:15 - 12:00 Communications Options
 Presenter: Aiden Taba, Patrick Morton  
 Session Development: Aiden Taba, Tommo Morton, Patrick Morton  
 
