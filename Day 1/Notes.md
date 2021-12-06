@@ -1,6 +1,6 @@
-## Day 1 outline
+# Day 1 outline
 
-### Session 1 - 9:00-9:30 - Introductions, safety briefing and learning outcomes 
+## Session 1 - 9:00-9:30 - Introductions, safety briefing and learning outcomes
 
 Session coordinator: Melinda Hodkiewicz (MH).
 
@@ -8,13 +8,13 @@ Session coordinator: Melinda Hodkiewicz (MH).
 
 2. Safety briefing - Building and SHL.
 
-3. Introduce the IOT course team - (2-3 minute introduction from each - What is your role and why is this course relevant? What level of experience do you have with COTS-MEMS-IOT systems? What do you hope to get from the course? 
+3. Introduce the IOT course team - (2-3 minute introduction from each - What is your role and why is this course relevant? What level of experience do you have with COTS-MEMS-IOT systems? What do you hope to get from the course?
 
 * Aiden Taba https://www.linkedin.com/in/aident/
 * Nick Sadnovnikov https://www.linkedin.com/in/nick-sadovnikov/
 * Toby Digney https://www.linkedin.com/in/toby-digney-33b85a165/
 * Patrick Morton https://www.linkedin.com/in/patrick-morton-91148b196/
-* Thomas Morton 
+* Thomas Morton
 * A/Prof Adrian Keating https://www.linkedin.com/in/adrian-keating-199a853/
 * Dr. Ben Travaglione (Adjunct Assoc Professor) https://www.linkedin.com/in/ben-travaglione-17b95a79/
 * Prof. Melinda Hodkiewicz https://www.linkedin.com/in/melinda-hodkiewicz-b6bbba7/
@@ -45,19 +45,20 @@ Barry(15 mins)
 
 * Presenter: Aiden Taba
 * Session development: ?? TBA (doesn't have to be a ppt)
+* Activity: Play with simple circuit.
 
 ### Session 5 - Game 10:45 - 11:45
 
 * Game coordinator: Aiden Taba
 * Game development (what are we going to do, what parts needed, etc.) TBA
-* Activity support: Nick Sadnovnikov, Patrick Morton, Tommo Morton, Toby Digby (?)
+* Activity support: Nick Sadnovnikov, Patrick Morton, Tommo Morton
 
-Activity: identify parts, understand supply chain, costs, look at spec sheets. Find a component race (cheapest cost, meet specs and delivery time). Winner gets component prize. Play with simple circuit.
+Activity: identify parts, understand supply chain, costs, look at spec sheets. Find a component race (cheapest cost, meet specs and delivery time). Winner gets gift wrapped component prize. 
 
 ### Session 6 - 11:45 - 12:15 Medical device risk assessment and standards. TGA checklists.
 
-* Presenter: TBA
-* Presentation development: ?? TBA (MH will help, Toby??, Aiden??)
+* Presenter: Aiden
+* Presentation development: Aiden has some material from Prof Chinzei from AIST Japan that he presented on IEC 60601-1. Reference also this link https://www.tga.gov.au/sites/default/files/essential-principles-checklist-medical-devices.pdf
 
 ### Wrap up. End at 12:30
 
