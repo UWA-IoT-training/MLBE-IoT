@@ -1,7 +1,7 @@
 # Day 2 Outline
 
 ## Session 1 - 9:00 - 9:50 Arduino Basics
-Presenter: Aiden Taba 
+Presenter: Aiden Taba  
 Support: Nick Sadovnikov, Tommo Morton, Patrick Morton
 
 1. How to use the Arduino Nano
@@ -17,7 +17,7 @@ Support: Nick Sadovnikov, Tommo Morton, Patrick Morton
 4. Test circuit to see if it works - if not then troubleshoot 
 
 ## Session 2 - 9:50 - 10:15 What's going on: Voltage (logic) levels and understanding the code
-Presenter: Nick Sadovnikov 
+Presenter: Nick Sadovnikov  
 Session Development:
 
 1. Understabding logic levels
@@ -33,7 +33,7 @@ Session Development:
 ## Break 10:15 - 10:30 
 
 ## Session 3 - 10:30 - 11:45 Getting to know the ESP32
-Presenter: Nick Sadovnikov 
+Presenter: Nick Sadovnikov  
 Session Development:
 
 1. Introduce the ESP32
@@ -53,7 +53,7 @@ Session Development:
 4. Connect to the camera feed
 
 ## Session 4 - 11:45 - 12:00 Useful resources and Toby's goody bag of bits
-Presenter: Toby Digney??? 
+Presenter: Toby Digney???  
 Session Development:
 
 1. Run through useful resources (that will assist with the weekend homework)
