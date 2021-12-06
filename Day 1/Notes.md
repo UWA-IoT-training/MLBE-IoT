@@ -14,7 +14,7 @@ Session coordinator: Melinda Hodkiewicz (MH).
 * Nick Sadnovnikov https://www.linkedin.com/in/nick-sadovnikov/
 * Toby Digney https://www.linkedin.com/in/toby-digney-33b85a165/
 * Patrick Morton https://www.linkedin.com/in/patrick-morton-91148b196/
-* Thomas Morton
+* Thomas Morton https://www.linkedin.com/in/thomas-morton-0132ba225/
 * A/Prof Adrian Keating https://www.linkedin.com/in/adrian-keating-199a853/
 * Dr. Ben Travaglione (Adjunct Assoc Professor) https://www.linkedin.com/in/ben-travaglione-17b95a79/
 * Prof. Melinda Hodkiewicz https://www.linkedin.com/in/melinda-hodkiewicz-b6bbba7/
