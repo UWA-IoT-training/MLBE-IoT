@@ -5,7 +5,7 @@ Presenter:
 Session Development:  
 1. Overview of End-to-end design and manufacture process  
 
-## Session 2 - ... - 3D printing
+## Session 2 - 9:30 - 10:15 3D printing
 Presenter:  
 Session Development:  
 
@@ -15,7 +15,7 @@ Session Development:
 
 ## Break - 10:15 - 10:30
 
-## Session 3 - ... - Further/Future considerations
+## Session 3 - 10:30 - 11:45 Further/Future considerations
 Presenter:  
 Session Development:  
 
@@ -27,7 +27,7 @@ Session Development:
 6. Additional Resources
 
 
-## Session 4 - ... - Wrap Up
+## Session 4 - 11:45 - 12:00 Wrap Up
 Presenter:  
 Session Development:  
 
