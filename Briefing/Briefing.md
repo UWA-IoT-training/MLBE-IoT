@@ -8,7 +8,7 @@ Welcome to the MLBE Internet of Things Crash Course!
 The course will run for 4 days between 9th December and 14th December. Arrive at 8:45am for a 9:00am start and finishing at 12:30pm. 
 
 ### Where
-The System Health Lab is located on the 1st Floor  of the Civil and Mechanical Engineering Building (224, indicated on campus map). Enter the building on the east side (adjacent to James Oval) and go up the stairs, then go down the hallway where you will find the lab indicated by a sign on the wall. If you get lost, call Melinda on (phone number).
+The System Health Lab is located on the 1st Floor  of the Civil and Mechanical Engineering Building (224, indicated on campus map). Enter the building on the east side (adjacent to James Oval) and go up the stairs, then go down the hallway where you will find the lab indicated by a sign on the wall. If you get lost, call Melinda on 0439 512 475.
 
 ![UWA Campus Map](map.png)
 
