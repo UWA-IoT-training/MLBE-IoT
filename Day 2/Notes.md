@@ -18,7 +18,7 @@ Support: Nick Sadovnikov, Tommo Morton, Patrick Morton
 
 ## Session 2 - 9:50 - 10:15 What's going on: Voltage (logic) levels and understanding the code
 Presenter: Nick Sadovnikov  
-Session Development:
+Session Development: Nick???
 
 1. Understabding logic levels
 * How bits are communicated with voltage levels (= logic)
@@ -34,7 +34,7 @@ Session Development:
 
 ## Session 3 - 10:30 - 11:45 Getting to know the ESP32
 Presenter: Nick Sadovnikov  
-Session Development:
+Session Development: Nick/Toby
 
 1. Introduce the ESP32
 * How to program it
@@ -54,7 +54,7 @@ Session Development:
 
 ## Session 4 - 11:45 - 12:00 Useful resources and Toby's goody bag of bits
 Presenter: Toby Digney???  
-Session Development:
+Session Development: Toby???
 
 1. Run through useful resources (that will assist with the weekend homework)
 2. Toby's goody bag of bits and what to do with it
