@@ -7,11 +7,14 @@ Support: Nick Sadovnikov, Tommo Morton, Patrick Morton
 1. How to use the Arduino Nano
 * Connecting to your computer
 * Connecting components to it
-*How to upload code
+* How to upload code
 
 
 ## Activity: Make a light blink with button
-
+1. Find the example code "Blink"
+2. Modify it to make the blinking button-controlled
+3. Connect the circuit
+4. Test circuit to see if it works - if not then troubleshoot
 
 ## Session 2 - ... - 10:15 What's going on: Voltage (logic) levels and understanding the code
 Presenter: Nick Sadovnikov
