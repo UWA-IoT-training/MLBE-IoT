@@ -10,7 +10,7 @@ Support: Nick Sadovnikov, Tommo Morton, Patrick Morton
 * How to upload code
 
 
-## Activity: Make a light blink with button
+### Activity: Make a light blink with button
 1. Find the example code "Blink"
 2. Modify it to make the blinking button-controlled
 3. Connect the circuit
