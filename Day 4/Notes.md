@@ -1,13 +1,13 @@
 # Day 4 Outline
 
 ## Session 1 - 9:00 - 9:30 Putting it all together
-Presenter:  
-Session Development:  
+Presenter:  Melinda Hodkiewicz, Aiden Taba  
+Session Development:  Melinda Hodkiewwicz, Aiden Taba???  
 1. Overview of End-to-end design and manufacture process  
 
 ## Session 2 - 9:30 - 10:15 3D printing
-Presenter:  
-Session Development:  
+Presenter:  Aiden Taba, Patrick Morton
+Session Development:  Aiden Taba, Patrick Morton
 
 1. How 3D printing works
 2. Designing with 3D printing in mind
@@ -16,8 +16,8 @@ Session Development:
 ## Break - 10:15 - 10:30
 
 ## Session 3 - 10:30 - 11:45 Further/Future considerations
-Presenter:  
-Session Development:  
+Presenter:  Aiden Taba, Melinda Hodkiewicz
+Session Development:  Aiden Taba, Toby Digney, Melinda Hokiewicz
 
 1. PCB miniaturisation
 2. Reliability
@@ -28,8 +28,8 @@ Session Development:
 
 
 ## Session 4 - 11:45 - 12:00 Wrap Up
-Presenter:  
-Session Development:  
+Presenter:  Melinda Hodkiewicz
+Session Development:  Melidna Hodkiewicz
 
 1. What we learnt
 2. What we wish we learnt
