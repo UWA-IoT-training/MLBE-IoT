@@ -19,12 +19,28 @@ Support: Nick Sadovnikov, Tommo Morton, Patrick Morton
 ## Session 2 - ... - 10:15 What's going on: Voltage (logic) levels and understanding the code
 Presenter: Nick Sadovnikov
 
+1. Understabding logic levels
+* How bits are communicated with voltage levels (= logic)
+* Brown out
+* Use of different logic levels (e.g. 3.3V vs 5V
+
+2. Code run-through
+* Understanding the different sections of the code
+* Brief overview of what different commands do
+
+
 ## Break 10:15 - 10:30
 
 ## Session 3 - ... Getting to know the ESP32
 Presenter: Nick Sadovnikov
 
-## Activity: Smile! You're on Camera :)
+1. Introduce the ESP32
+* How to program it
+* How to connect to it
+* 
+2. dd
+
+### Activity: Smile! You're on Camera :)
 
 
 ## Session 4 - ... - 12:00 Useful resources and Toby's goody bag of bits
