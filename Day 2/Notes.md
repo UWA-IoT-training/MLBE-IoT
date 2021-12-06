@@ -37,12 +37,21 @@ Presenter: Nick Sadovnikov
 1. Introduce the ESP32
 * How to program it
 * How to connect to it
-* 
-2. dd
+
+
+2. Introduce the camera
+* How to connect it
+* How to use it
+* How to access the image
 
 ### Activity: Smile! You're on Camera :)
-
+1. Set up circuit
+2. Connect to ESP32
+3. Upload the code
+4. Connect to the camera feed
 
 ## Session 4 - ... - 12:00 Useful resources and Toby's goody bag of bits
 Presenter: Toby Digney???
+1. Run through useful resources (that will assist with the weekend homework)
+2. Toby's goody bag of bits and what to do with it
 
