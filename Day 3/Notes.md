@@ -18,7 +18,8 @@ Session Development: Nick Sadovnikov, Tommo Morton, Patrick Morton
 
 ### Activity: Take a photo and a timelapse  (10:30 - 11:15)
 1. use camera setup that was established on Day 2
-2. etc.
+2. Modify to capture still images
+3. Modify to capture series of still images / timelapse
 
 ## Session 3 - 11:15 - 12:00 Communications Options
 Presenter: Aiden Taba, Patrick Morton  
