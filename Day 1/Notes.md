@@ -28,16 +28,15 @@ Session coordinator: Melinda Hodkiewicz (MH).
 * Binit Lamichhane https://www.linkedin.com/in/binitlamichhane/
 * Aleksandra Debowski https://www.linkedin.com/in/aleksandra-debowski-04507515b/
 
-### Session 2 - 9:30 - 10:00 - Elements of a COTS data collection system
+### Session 2 - 9:30 - 9:45 - Overview of the device and its design intent and business case  
+
+Barry(15 mins)
+
+### Session 3 - 9:45 - 10:15 - Elements of a COTS data collection system
 
 Presentation on elements of a typical MEMS-IOT system: microprocessor, sensors, communications, power, storage, code (data and settings), enclosure (30 mins)
  
 * Presenter: Aiden Taba
-* Session details: Patrick Morton
-
-### Session 3 - 10:00 - 10:15 - Overview of the device and its design intent and business case 
-
-Barry(15 mins)
 
 ### BREAK 15 - 10:15 - 10:30
 
