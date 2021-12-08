@@ -52,7 +52,7 @@ Presentation on elements of a typical MEMS-IOT system: microprocessor, sensors, 
 * Game development (what are we going to do, what parts needed, etc.) TBA
 * Activity support: Nick Sadnovnikov, Patrick Morton, Tommo Morton
 
-Activity: identify parts, understand supply chain, costs, look at spec sheets. Find a component race (cheapest cost, meet specs and delivery time). Winner gets gift wrapped component prize. 
+Activity: identify parts, understand supply chain, costs, look at spec sheets. Find a component race (cheapest cost, meet specs and delivery time). Winner gets prize. 
 
 ### Session 6 - 11:45 - 12:15 Medical device risk assessment and standards. TGA checklists.
 
