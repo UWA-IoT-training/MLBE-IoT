@@ -28,9 +28,9 @@ Session coordinator: Melinda Hodkiewicz (MH).
 * Binit Lamichhane https://www.linkedin.com/in/binitlamichhane/
 * Aleksandra Debowski https://www.linkedin.com/in/aleksandra-debowski-04507515b/
 
-### Session 2 - 9:30 - 9:45 - Overview of the device and its design intent and business case  
+### Session 2 - 9:30 - 9:40 - Overview of the device and its design intent and business case  
 
-Barry(15 mins)
+Barry(10 mins)
 
 ### Session 3 - 9:45 - 10:15 - Elements of a COTS data collection system
 
@@ -40,11 +40,11 @@ Presentation on elements of a typical MEMS-IOT system: microprocessor, sensors, 
 
 ### BREAK 15 - 10:15 - 10:30
 
-### Session 4 - 10:30 - 10:45 - Introduction to breadboards. Basic topology of circuit. 
+### Session 4 - 10:30 - 10:45 - Introduction to the basic topology of circuits. 
 
 * Presenter: Aiden Taba
-* Session development: ?? TBA (doesn't have to be a ppt)
-* Activity: Play with simple circuit.
+* Session development: TBA
+* Activity: Drawing high-level architectures
 
 ### Session 5 - Game 10:45 - 11:45
 
