@@ -57,7 +57,7 @@ Activity - participants to do this with a photo and then (maybe) a time-lapse
 ### Day 4
 Activity: Everyone to demo their device and describe 
 
-1. Putting it all together: overview of end to end process (Melinda, Aiden)
+1. Putting it all together: overview of end to end process and requirements analysis activity (Melinda, Aiden)
  
 2. Describe/ demo 3D printing (Patrick, Aiden)
 
