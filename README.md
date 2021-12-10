@@ -37,6 +37,8 @@ Activity: Make a light blink with button,
 
 3. Introduction to the microcontroller and parts for the demo (ESP32 with camera module) and sensor (camera?). Describe USB to serial card. (Nick, Toby)
 
+(ESP32 Board Manager: <https://dl.espressif.com/dl/package_esp32_index.json>)
+
 Activity: Make it blink every time it takes an image. Introduce the ESP32 and parts. Upload code to the ESP. 
 
 4. Review of resources to help and Toby's goody bag of bits. (Toby)
