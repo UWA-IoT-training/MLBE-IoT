@@ -14,7 +14,7 @@ Session coordinator: Melinda Hodkiewicz (MH).
 * Nick Sadnovnikov https://www.linkedin.com/in/nick-sadovnikov/
 * Toby Digney https://www.linkedin.com/in/toby-digney-33b85a165/
 * Patrick Morton https://www.linkedin.com/in/patrick-morton-91148b196/
-* Thomas Morton
+* Thomas Morton https://www.linkedin.com/in/thomas-morton-0132ba225/
 * A/Prof Adrian Keating https://www.linkedin.com/in/adrian-keating-199a853/
 * Dr. Ben Travaglione (Adjunct Assoc Professor) https://www.linkedin.com/in/ben-travaglione-17b95a79/
 * Prof. Melinda Hodkiewicz https://www.linkedin.com/in/melinda-hodkiewicz-b6bbba7/
@@ -28,24 +28,23 @@ Session coordinator: Melinda Hodkiewicz (MH).
 * Binit Lamichhane https://www.linkedin.com/in/binitlamichhane/
 * Aleksandra Debowski https://www.linkedin.com/in/aleksandra-debowski-04507515b/
 
-### Session 2 - 9:30 - 10:00 - Elements of a COTS data collection system
+### Session 2 - 9:30 - 9:40 - Overview of the device and its design intent and business case  
+
+Barry(10 mins)
+
+### Session 3 - 9:45 - 10:15 - Elements of a COTS data collection system
 
 Presentation on elements of a typical MEMS-IOT system: microprocessor, sensors, communications, power, storage, code (data and settings), enclosure (30 mins)
  
 * Presenter: Aiden Taba
-* Session details: Patrick Morton
-
-### Session 3 - 10:00 - 10:15 - Overview of the device and its design intent and business case 
-
-Barry(15 mins)
 
 ### BREAK 15 - 10:15 - 10:30
 
-### Session 4 - 10:30 - 10:45 - Introduction to breadboards. Basic topology of circuit. 
+### Session 4 - 10:30 - 10:45 - Introduction to the basic topology of circuits. 
 
 * Presenter: Aiden Taba
-* Session development: ?? TBA (doesn't have to be a ppt)
-* Activity: Play with simple circuit.
+* Session development: TBA
+* Activity: Drawing high-level architectures
 
 ### Session 5 - Game 10:45 - 11:45
 
@@ -53,7 +52,7 @@ Barry(15 mins)
 * Game development (what are we going to do, what parts needed, etc.) TBA
 * Activity support: Nick Sadnovnikov, Patrick Morton, Tommo Morton
 
-Activity: identify parts, understand supply chain, costs, look at spec sheets. Find a component race (cheapest cost, meet specs and delivery time). Winner gets gift wrapped component prize. 
+Activity: identify parts, understand supply chain, costs, look at spec sheets. Find a component race (cheapest cost, meet specs and delivery time). Winner gets prize. 
 
 ### Session 6 - 11:45 - 12:15 Medical device risk assessment and standards. TGA checklists.
 
