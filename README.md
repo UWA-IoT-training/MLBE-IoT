@@ -37,6 +37,8 @@ Activity: Make a light blink with button,
 
 3. Introduction to the microcontroller and parts for the demo (ESP32 with camera module) and sensor (camera?). Describe USB to serial card. (Nick, Toby)
 
+(ESP32 Board Manager: <https://dl.espressif.com/dl/package_esp32_index.json>)
+
 Activity: Make it blink every time it takes an image. Introduce the ESP32 and parts. Upload code to the ESP. 
 
 4. Review of resources to help and Toby's goody bag of bits. (Toby)
@@ -57,9 +59,9 @@ Activity - participants to do this with a photo and then (maybe) a time-lapse
 ### Day 4
 Activity: Everyone to demo their device and describe 
 
-1. Putting it all together: overview of end to end process (Melinda, Aiden)
+1. Putting it all together: overview of end to end process and requirements analysis activity (Melinda, Aiden)
  
-2. Describe/ demo 3D printing (Patrick)
+2. Describe/ demo 3D printing (Patrick, Aiden)
 
 3. Develop PCB minaturisation, reliability, etc.(talk to EE), writing specifications, costs, web app, resources. (Aiden, Toby, Melinda)
 
@@ -69,8 +71,8 @@ Activity: Everyone to demo their device and describe
 
 1. Join the course Teams account
 2. Set up a Git Hub account and post their address to the Teams channel.
-3. Download Arduino and download library
-4. Brings laptop
+3. Download Arduino, library and Fritzing
+4. Bring laptop
 5. Briefing note, welcome to the course, times/dates, what to bring, where we are, safety induction (Patrick, Thomas to write up Melinda/Aiden to send out)
 
 
